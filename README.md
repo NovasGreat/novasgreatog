@@ -1,7 +1,3 @@
 # novasgreat.github.io
-Hey you! Just a note, but this is NOT mine. I give ALL CREDITS TO @ellieeet123 and others. I made this for my school so yeah. :) -Nova
-
-
-
-BREAKING NEWS!
-I am currently working on reviving this website back from the dead so stay tuned!
+An old website made by elliot (or elliet, sory about the error) that I forked to provide fun to my boring school
+I added my own things on here, but 99% of the work is my elliot, thanks for letting me use this during my beginnings
